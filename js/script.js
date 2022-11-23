@@ -306,13 +306,42 @@
 //   console.log("Done!");
 // }
 
-let hamburger;
-const fries = NaN;
-const cola = 0;
-const nuggets = 2;
+// let hamburger;
+// const fries = NaN;
+// const cola = 0;
+// const nuggets = 2;
 
-if ((hamburger && cola) || (fries === 3 && nuggets)) {
-  console.log("Done!");
-} else {
-  console.log("we are going");
-}
+// if ((hamburger && cola) || (fries === 3 && nuggets)) {
+//   console.log("Done!");
+// } else {
+//   console.log("we are going");
+// }
+
+// Циклы
+// let num = 50;
+
+// while (num <= 55) {
+//   console.log(num);
+//   num++;
+// }
+
+let num = 50;
+
+// do {
+//   console.log(num);
+//   num++;
+// } while (num < 55);
+
+// for (let i = 1; i < 10; i++) {
+//   if (i === 6) {
+//     break;
+//   }
+//   console.log(i);
+// }
+
+// for (let i = 1; i < 10; i++) {
+//   if (i === 6) {
+//     continue;
+//   }
+//   console.log(i);
+// }
